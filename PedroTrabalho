@@ -1,0 +1,35 @@
+GITHUB
+Ano de lançamento
+R:2008
+Quem é o proprietário/criador
+R:Nat Friedman,Tom Preston-Werner, Chris Wanstrath, Scott Chacon, P. J. Hyett.
+Qual a principal característica de cada uma
+R:Um diferencial dele é o GitHub Desktop que é uma ferramenta simples do GitHub que permite operar repositórios sem o uso de comandos.
+
+GITLAB
+Ano de lançamento
+R:Setembro de 2011
+Quem é o proprietário/criador
+R:Dmitriy Zaporozhets Sytse Sijbrandij
+Qual a principal característica de cada uma
+R:O foco que o Gitlab vem dando à integração com ferramentas de DevOps é o diferencial. 
+O Gitlab proporciona, nativamente, ferramentas de integração e entrega contínua ou CI/CD,
+
+BITBUCKET
+Ano de lançamento
+R:2008
+Quem é o proprietário/criador
+R: Atlassian
+Qual a principal característica de cada uma
+R: Tem como diferencial o Bitbucket Data Center é uma oferta corporativa hospedada em vários servidores em clusters, 
+que permitem ao ambiente características vantajosas como performance escalável, alta disponibilidade e espelhamento inteligente
+
+VISUAL STUDIO TEAMS SERVICES
+Ano de lançamento
+R:Data de lançamento
+Quem é o proprietário/criador
+R:Microsoft
+Qual a principal característica de cada uma
+R:A atual política de segurança da Microsoft é que todos os dados do projeto como textos, arquivos de documentos, 
+arquivos de código, sites sejam armazenados no banco de dados Microsoft SQL Server, ou seja, 
+todo o sistema do TFS é armazenado no SQL Server e publicado utilizando o Internet Information Services (IIS) para acesso às funcionalidades.
