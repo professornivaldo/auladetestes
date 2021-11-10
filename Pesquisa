@@ -1,0 +1,25 @@
+GitHub
+Ano de lançamento - 2008
+Quem é o proprietario/criador - Nat Friedman
+principal caracteristica -  Repositório: onde os seus arquivos (códigos, imagens, áudios etc) ficam armazenados,
+com as opções de depósito do próprio GitHub ou no seu computador; ➜ Branch: cópia do diretório para desenvolvimento isolado,
+que não afeta o repositório central ou outros branches.
+
+GitLab
+Ano de lançamento - 2014
+Quem é o proprietario/criador - Sid Sijbrandij
+principal caracteristica - GitLab é similar ao GitHub,
+mas o GitLab permite que os desenvolvedores armazenem o código em seus próprios servidores,
+ao invés de servidores de terceiros.
+
+BitBucket
+Ano de lançamento - 2008
+Quem é o proprietario/criador - Mike Dannon brooks
+principal caracteristica - Bitbucket é um serviço de hospedagem de projetos controlados através do Mercurial,
+um sistema de controle de versões distribuído.
+É similar ao GitHub. Bitbucket têm um serviço grátis e um comercial. O serviço é escrito em Python
+
+Visual Studio Teams Services
+Ano de lançamento - 2010
+Quem é o proprietario/criador - Ajoy Krishnamoorthy
+principal caracteristica - um conjunto de aplicativos que gerenciam um projeto e permitem integração entre todos os envolvidos.
