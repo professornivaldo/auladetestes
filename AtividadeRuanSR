@@ -1,0 +1,33 @@
+Pesquisar sobre as 4 ferramentas os seguintes pontos:
+-Ano de lançamento
+-Quem é o proprietário/criador
+-Qual a principal caracteristica
+
+GitHub
+
+Data de criação: 10 de abril de 2008
+Criadores: Tom Preston-Werner, Chris Wanstrath, Scott Chacon, P. J. Hyett
+Caracteristica principal: O GitHub é um serviço web de hospedagem de código que possibilita o controle de versão de projetos de software. 
+Construído sobre o Git, esse serviço abstrai do programador questões de infraestrutura, disponibilizando em um servidor web os seus projetos, 
+de modo que você ou uma equipe (centralizada ou distribuída), possa trabalhar no mesmo projeto a partir de um controle de versão rápido e simples.
+
+GitLab
+
+Data de criação: 2014
+Criador: Dmitriy Zaporozhets
+Caracteristicas: O GitLab é um gerenciador de repositório de software baseado em git, com suporte a Wiki, gerenciamento de tarefas e CI/CD.
+GitLab é similar ao GitHub, mas o GitLab permite que os desenvolvedores armazenem o código em seus próprios servidores, ao invés de servidores de terceiros.
+
+BitBucket
+
+Data de criação: 2008
+Criador: Jesper Noehr
+Caracteristicas: Bitbucket é um serviço de hospedagem de projetos controlados através do Mercurial,
+um sistema de controle de versões distribuído. É similar ao GitHub. Bitbucket têm um serviço grátis e um comercial. O serviço é escrito em Python.
+
+Visual Studio Team Services
+
+Data de criação: 2005
+Criador: Microsoft
+Caracteristicas: é um produto da Microsoft que fornece controle de versão,
+relatórios, gerenciamento de requisitos, gerenciamento de projetos, builds automatizados, testes e recursos de gerenciamento de versão.
