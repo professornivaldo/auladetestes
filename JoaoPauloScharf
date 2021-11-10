@@ -1,0 +1,47 @@
+GIT HUB
+
+Lançamento: 10 de abril de 2008
+Proprietário/criador: Chris Wanstrath, J. Hyett, Tom Preston-Werner e Scott Chacon.
+Qual a principal característica: 
+Repositório: onde os seus arquivos (códigos, imagens, áudios etc) ficam armazenados, com as opções de depósito do próprio GitHub ou no seu computador;
+Branch: cópia do diretório para desenvolvimento isolado, que não afeta o repositório central ou outros branches. Depois de concluir o seu trabalho,
+ você pode combinar o seu branch isolado com outros branches por meio de uma merge, utilizando o Pull Request.
+Pull Request: é quando você informa que irá implantar as mudanças no seu branch ao repositório máster,
+ podendo ser aceito ou negado pelos colaboradores. Além disso, é possível revisar e discutir seu trabalho com os demais.  
+Forking: é a criação de um novo projeto com base em repositório existentes, fazendo as alterações necessárias e armazenando a nova versão como um novo repositório.
+
+
+
+* GitLab
+Lançamento: 2011
+Proprietário/criador: distribuído sob a Licença MIT
+Qual a principal característica: 
+Numero de Repositórios ilimitados
+Espaço ilimitado
+Integração continua integrada (GitLab CI)
+Importação projetos do GitHub, BitBucket e Gitorious
+Armazenamento de repositórios em servidores privados
+
+Desvantagem: Funciona apenas em linux
+
+
+
+* Bitbucket
+Lançamento: 2008
+Proprietário/criador: Jesper Noehr
+Qual a principal característica: 
+Umas das principais características do bitbucket windows é o fato de ser responsivo.
+Graças a conectividade de redes disponíveis, largura de banda E/S e ao poder de computação. 
+Tudo isso permite que ele não tenha sua capacidade de performance afetada, mesmo com uma alta demanda de trabalho do servidor
+
+
+
+
+* Visual Studio Teams Services
+Lançamento: fevereiro de 1997
+Proprietário/criador: Microsoft
+Qual a principal característica: 
+Microsoft Visual Studio é um ambiente de desenvolvimento integrado (IDE) da Microsoft
+para desenvolvimento de software especialmente dedicado ao .NET Framework e às linguagens Visual Basic (VB),
+C, C++, C# (C Sharp) e F# (F Sharp). Também é um produto de desenvolvimento na área web, usando a plataforma do ASP.NET,
+como websites, aplicativos web, serviços web e aplicativos móveis.
