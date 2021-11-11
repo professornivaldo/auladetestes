@@ -1,0 +1,22 @@
+ATIVIDADE  AVALIATIVA
+Pesquisar sobre as 4 ferramentas os seguintes pontos: 
+- Ano de lançamento ;    - Quem é o proprietário/criador ;    - Qual a principal característica de cada
+GITHUB
+ANO DE LANÇAMENTO:  Começou em fevereiro de 2008
+QUEM É O PROPRIETÁRIO/CRIADOR: Foi desenvolvido por Chris Wanstrath, J. Hyett, Tom Preston-Werner e Scott Chacon
+QUAL A PRINCIPAL CARACTERÍSTICA DE CADA:  Ambiente fácil de se mexer  e amigável para novos desenvolvedores, além de Registrar ações e projetos desenvolvidos por você em uma espécie de portfólio online, etc.
+
+GITLAB
+ANO DE LANÇAMENTO:  Primeira versão disponibilizada em 2011
+QUEM É O PROPRIETÁRIO/CRIADOR:  O software foi escrito originalmente por Dmitriy Zaporozhets
+QUAL A PRINCIPAL CARACTERÍSTICA DE CADA: Uma das principais funcionalidades que difere uma plataforma da outra, é o foco que o Gitlab vem dando à integração com ferramentas de DevOps. O Gitlab proporciona, nativamente, ferramentas de integração e entrega contínua ou CI/CD, além de métricas para acompanhamento de qualidade de código, performance e teste de usabilidade 
+
+BITBUCKET
+ANO DE LANÇAMENTO:  Em 29 de Setembro de 2010
+QUEM É O PROPRIETÁRIO/CRIADOR:  Fundada por Jesper Nohr
+QUAL A PRINCIPAL CARACTERÍSTICA DE CADA:  Bitbucket pipelines - Build, test e deploy a partir do Bitbucket, Verificação de conta em 2 passos, Merge checks - Build dependent, revisão de código e controle de tasks, Code search, Git large File Storage (LFS) - Versionamento de arquivos grandes. O Bitbucket possui um bom acervo de ferramentas de integração, as principais ferramentas do mercado são suportadas pela plataforma. As principais podemos destacar: JIRA, HiChat, Bamboo, Azure, AWS, Docker
+
+VISUAL STUDIO TEAMS SERVICES
+ANO DE LANÇAMENTO: 1997
+QUEM É O PROPRIETÁRIO/CRIADOR: Microsoft
+QUAL A PRINCIPAL CARACTERÍSTICA DE CADA:  Integração com Visual Studio, além de atender diversas  ferramentas que tem por finalidade de gerenciar todo o projeto, gerenciar bugs e atividades ( work itens ),  configurações do projetos, ferramentas de testes, desenvolvimento e modelagem
