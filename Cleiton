@@ -1,0 +1,25 @@
+GitHub
+Ano de lançamento: 10 de abril de 2008
+Criadores / proprietários: Tom Preston, Chris Wanstrath, Scott Chacon e PJ Hyett.
+Principais caracteristicas:
+Repositório: onde os seus arquivos (códigos, imagens, áudios etc) ficam armazenados, com as opções de depósito do próprio GitHub ou no seu computador
+Filial: cópia do diretório para desenvolvimento isolado, que não afeta o repositório central ou outras filiais. Depois de concluir o seu trabalho, você pode combinar o seu branch isolado com outras branches por meio de uma merge, utilizando o Pull Request.
+Pull Request: é quando você informa que irá implantar como mudanças no seu branch ao repositório mais, podendo ser aceito ou negado pelos colaboradores. Além disso, é possível revisar e discutir seu trabalho com os demais.
+Bifurcação: é a criação de um novo projeto com base em repositório existente, fazendo as alterações necessárias e armazenando uma nova versão como um novo repositório.
+
+GitLab
+Ano de lançamento: Setembro de 2011
+Criadores: Dmitriy Zaporozhets
+Principais caracteristicas: GitLab é uma plataforma Git e DevOps baseada em nuvem que ajuda os desenvolvedores a monitorar, testar e implantar seu código.
+Um repositório de Git de nuvem costumava ser o principal ponto de venda do GitLab. Mas a plataforma evoluiu além de suas origens simples. Hoje, o GitLab oferece uma ampla gama de recursos DevOps, como integração contínua, segurança e até mesmo ferramentas de implantação de aplicativos.
+GitLab começou como uma alternativa de código aberto auto-atendimento ao GitHub. Agora ele oferece planos SaaS gratuitos e pagos também.
+Também oferece ferramentas essenciais de gerenciamento de projetos para monitorar e controlar os membros da sua equipe. Não é apenas um sistema de controle de versão para o código-fonte do seu software.
+
+Bitbucket
+Ano de Lançamento: 2008
+Principais caracteristicas: Performance escalável, Alta disponibilidade, Espelhamento inteligente, Autocorreção de arquivos e Segurança.
+
+serviços da equipe de estúdio visual
+Data de lancamento: 29 de abril de 2015 
+Criador: microsoft
+principais caracteristicas: Essa ferramenta possibilita criar um ambiente de programação perfeito para as equipes. Com ela, você atribui códigos em várias linguagens e aplicativos para várias plataformas. Ao mesmo tempo, pode rastrear ideias com ferramentas do Ágile e contar com revisão de códigos de alto potencial.
