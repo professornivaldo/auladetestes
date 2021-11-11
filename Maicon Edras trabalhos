@@ -1,0 +1,25 @@
+GITHUB
+
+ano de lançamento: 10 de abril 2008
+desenvolvedores: desenvolvido por Chris Wanstrath, J. Hyett, Tom Preston-Werner e Scott Chacon
+principal características: é focado na divulgação de códigos Open Source, ainda possui um mecanismo de gestão e interação com a comunidade, divulgando e incentivando o desenvolvimento de novos projetos.
+Dentro da plataforma é possível também, realizar a abertura de Issues, sugerir melhorias em códigos por meio de Pull Requests, dentre outras funcionalidades.
+
+GITLAB
+
+ano de lançamento: setembro de 2011
+desenvolvedor:O software foi escrito originalmente por Dmitriy Zaporozhets, tendo sua primeira versão disponibilizada em 2011. Em 2013, Sytse Sijbrandij, juntamente com Dmitriy resolveram fundar uma empresa para dar suporte ao projeto
+principais características: diferente do github, o gitlab permite que os desenvolvedores armazenem o código em seus próprios servidores, ao invés de servidores de terceiros.
+
+BITBUCKET
+ano de lançamento:  2008
+Criador: jesper nohr
+principais características :similar ao GitHub. Bitbucket têm um serviço grátis e um comercial e o usuário pode deixar comentários na solicitação pull completa, em um arquivo específico ou um local específico dentro de um arquivo
+
+Visual Studio Team System
+ano de lançamento: 2005 
+Criador: Microsoft
+principais caracteristicas: ele não foca em uma só funcionalidade contendo conjunto de aplicativos que gerenciam um projeto e permitem integração entre todos os envolvidos.
+
+
+
