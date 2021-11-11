@@ -1,0 +1,30 @@
+GitHub:
+Lançamento: Dia 10 de abril de 2008
+Fundadores: Chris Wanstrath, J. Hyett, Tom Preston-Werner e Scott Chacon
+Principais Características :
+➜ Repositório: onde os seus arquivos (códigos, imagens, áudios etc) ficam armazenados, com as opções de depósito do próprio GitHub ou no seu computador;
+➜ Branch: cópia do diretório para desenvolvimento isolado, que não afeta o repositório central ou outros branches. Depois de concluir o seu trabalho, você pode combinar o seu branch isolado com outros branches por meio de uma merge, utilizando o Pull Request.
+➜ Pull Request: é quando você informa que irá implantar as mudanças no seu branch ao repositório máster, podendo ser aceito ou negado pelos colaboradores. Além disso, é possível revisar e discutir seu trabalho com os demais.  
+➜ Forking: é a criação de um novo projeto com base em repositório existentes, fazendo as alterações necessárias e armazenando a nova versão como um novo repositório.
+
+GitLab:
+Lançamento: Setembro de 2011 
+Fundadores: Dmitriy Zaporozhets em 2011. Em 2013, Sytse Sijbrandij, da Holanda (atual CEO), juntamente com Dmitriy resolveram fundar uma empresa para dar suporte ao projeto.
+Principais Características:
+GitLab é similar ao GitHub, mas o GitLab permite que os desenvolvedores armazenem o código em seus próprios servidores, ao invés de servidores de terceiros.
+
+BitBucket:
+Lançamento: 2008
+Fundador: Jesper Nøhr
+Principais Características: 
+similar ao GitHub. Bitbucket têm um serviço grátis e um comercial e o usuário pode deixar comentários na solicitação pull completa, em um arquivo específico ou um local específico dentro de um arquivo
+
+Visual Studio Teams Services: 
+Lançamento: 2005
+Fundadora: Microsoft
+Principais Características:
+O VSTS é um exemplo de convergência de ferramentas feita corretamente.
+A personalização do fluxo de trabalho é excelente.
+Os recursos mostrados são intuitivos e fáceis de usar.
+A compilação é para a compilação, a orquestração é feita pelo gerenciador de liberação.
+O foco está em recursos extensíveis.
