@@ -1,0 +1,19 @@
+GitHub é um serviço de  hospedagem de repositório baseado em nuvem, usado para controle de versão e colaboração
+Fundador(es): TOM PRESTON-WERNER, CHRIS WANSTRATH, SCOTT CHACON E P.J.HYETT
+Ano de Lançamento: 10 de abril de 2008.
+Característica: possibilidade de fazer controle de versões, sendo possível realizar alterações ao mesmo tempo de desenvolvedores diferentes
+
+GitLab é um gerenciador de repositório de software, gerenciamento de tarefas que permite que os desenvolvedores armazenam codigo em seus proprios servidores.
+Fundadores: Dmitriy Zaporozhets. 
+Ano de Lançamento: Setembro de 2011.
+Caracteristica: métricas para acompanahr e assegurar qualidade de codigo.
+
+BitBucket é uma ferramenta criada para hospedagem de codigo baseada em git para equipes.
+Fundador(es): Atlassian
+Ano de lançamento: 7 de abril de 2005.
+Carateristica: Rastreamento de Commits, possui gerenciador de indicidentes entre outros.
+
+Visual Studio Teams Service: ambiente de desenvolvimento  que ajuda os desenvolvedores de software a gerenciar seus projetos usando variadas linguagens de programação.
+Fundador(es): Microsoft
+Ano de Lancamento: 2 de novembro de 2016
+Caracteristicas: O visual studio permite que os desenvovedores escrevam extensões para o visual studio para ampliar suas extensões.
