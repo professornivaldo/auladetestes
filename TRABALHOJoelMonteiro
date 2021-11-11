@@ -1,0 +1,26 @@
+----------GITHUB----------
+-> DATA DE LANÇAMENTO: 10 de Abril de 2008 (10/04/2008);
+-> PROPRIETÁRIO/CRIADOR: Microsoft
+-> PRINCIPAL CARACTERÍSTICA: Hospedagem de código-fonte e arquivos com controle de versão usando o Git (sistema de controle de versões).
+                             Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+
+
+----------GITLAB----------
+-> DATA DE LANÇAMENTO:2014
+-> PROPRIETÁRIO/CRIADOR: GitLab Inc.
+-> PRINCIPAL CARACTERÍSTICA: Desenvolver, Proteger e Operar Software em um único aplicativo.
+                             Gerenciador de repositório de software baseado em git, com suporte a Wiki, gerenciamento de tarefas e CI/CD.
+                             
+                             
+----------BITBUCKET----------
+-> DATA DE LANÇAMENTO:2012
+-> PROPRIETÁRIO/CRIADOR: Atlassian
+-> PRINCIPAL CARACTERÍSTICA: Serviço de hospedagem de repositório de código-fonte baseado em Git.
+                             Usado principalmente para código e revisão de código.
+
+
+----------VISUAL STUDIO TEAM SERVER----------
+-> DATA DE LANÇAMENTO:2005
+-> PROPRIETÁRIO/CRIADOR: 	Trialware
+-> PRINCIPAL CARACTERÍSTICA: Controle de versão (com Team Foundation Version Control (TFVC) ou Git ), relatórios, gerenciamento de requisitos , gerenciamento de projeto ( para desenvolvimento ágil de software e equipes em cascata ), compilações automatizadas, testes e recursos de gerenciamento de versão.
+                             Cobre todo o ciclo de vida do aplicativo e permite recursos de DevOps (conjunto de práticas que combina desenvolvimento de software e operações de TI.
