@@ -1,0 +1,19 @@
+GITHUB
+Lançado em 2008
+Criado por Nat Friedman
+Possui repositório e Branch(cópia do diretório para desenvolvimento isolado, que não afeta o repositório central ou outros branches.)
+
+GITLAB
+Lançado em 2014
+Criado por Sid Sijbrandij
+Similar ao github, o que o diferencia é que este permite aos desenvolvedores que armazenem o código em seus próprios servidores, ao invés de servidores de terceiro
+
+BITBUCKET
+Lançado em 2008
+Criado pela empresa Atlassian, fundada por Scott Farquhar e  Mike Cannon-Brookes
+É controlado através do Mercurial, um sistema de controle de versões distribuído, possui uma versão grátis e uma comercial, foi criado em python.
+
+VISUAL STUDIO TEAMS SERVICES
+Lançado em 2005
+Criado pela Microsoft
+Cobre todo o ciclo de vida do aplicativo e permite recursos de DevOps, também pode ser usado como back-end para vários ambientes de desenvolvimento integrado (IDEs),e é adaptado para Microsoft Visual Studio e Eclipse.
